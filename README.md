@@ -35,7 +35,7 @@ Tabla Categoría
 
 - Nombre
 
-En base a las siguientes 3 tablas realizar las siguientes consultas con ORM Eloquent
+En base a las siguientes 3 tablas realizar las siguientes consultas con ORM Eloquent 
 ---
 
 1) - Seleccionar todas las compras con sus detalles asociados.
@@ -47,7 +47,7 @@ apropiado usar una o la otra.
 3) - Describe en detalle cómo Laravel usa el patrón de diseño MVC
 ---
 
-4) - Utilizando Laravel, se requiere crear las rutas para un sistema que muestra películas de distinto
+4) - Utilizando Laravel (Subir repositorio con la aplicación) , se requiere crear las rutas para un sistema que muestra películas de distinto
 género. Con la base /pelicula/, crea una ruta que dirija a una acción por cada género (entregado como
 parámetro) en el controlador. Los géneros válidos son Drama, Comedia, Acción y Terror. Cualquier
 otro género debe devolver error 404.
