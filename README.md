@@ -35,7 +35,7 @@ Tabla Categoría
 
 - Nombre
 
-En base a las siguientes 3 tablas realizar las siguientes consultas:
+En base a las siguientes 3 tablas realizar las siguientes consultas con ORM Eloquent
 ---
 
 1) - Seleccionar todas las compras con sus detalles asociados.
