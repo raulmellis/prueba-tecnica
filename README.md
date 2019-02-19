@@ -51,17 +51,18 @@ apropiado usar una o la otra.
 género. Con la base /pelicula/, crea una ruta que dirija a una acción por cada género (entregado como
 parámetro) en el controlador. Los géneros válidos son Drama, Comedia, Acción y Terror. Cualquier
 otro género debe devolver error 404.
+
 ---
 
-5) - Cuáles son las ventajas y desventajas de usar el patrón de diseño Active Record en la capa de
+5) - ¿Cuáles son las ventajas y desventajas de usar el patrón de diseño Active Record en la capa de
 Modelo?
 ---
 
-6) – Comandos necesarios para crear un controlador en Laravel, como correr un seeder en PHP, que
+6) - Comandos necesarios para crear un controlador en Laravel, como correr un seeder en PHP, que
 diferencia existe en el objeto extraído con el método find o All.
 ---
 
 
-7) Subir las respuestas de la prueba en un reporsitorio  junto con la app y notificar  				
+7) - Subir las respuestas de la prueba en un reporsitorio  junto con la app y notificar  				
 --- 
 
