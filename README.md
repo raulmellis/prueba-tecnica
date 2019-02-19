@@ -77,6 +77,5 @@ diferencia existe en el objeto extraído con el método find o All.
 
 ## Bonus
 ---
-* Uso de alguna librería en el frontend. Idealmente `Vue Js`
-* Uso de `Laravel Passport` para el consumo de API
+* Uso de alguna librería en el frontend. Idealmente `Vue Js`  
 * Uso de test (unittest con [phpunit](https://phpunit.de/documentation.html))
