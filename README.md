@@ -21,7 +21,7 @@ Tabla Detalle_compra
 
 - Id
 
-- Detalle_id
+- compra_id
 
 - Nombre
 
