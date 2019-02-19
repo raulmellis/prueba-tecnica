@@ -66,3 +66,17 @@ diferencia existe en el objeto extraído con el método find o All.
 7) - Subir las respuestas de la prueba en un reporsitorio  junto con la app y notificar  				
 --- 
 
+
+
+## En qué nos fijaremos 
+---
+* Correcto uso del ELOQUENT
+* Correcto modelamiento la BBDD
+* Correcto uso de GIT
+* Orden del código
+
+## Bonus
+---
+* Uso de alguna librería en el frontend. Idealmente `Vue Js`
+* Uso de `Laravel Passport` para el consumo de API
+* Uso de test (unittest con [phpunit](https://phpunit.de/documentation.html))
