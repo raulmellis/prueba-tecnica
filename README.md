@@ -58,7 +58,7 @@ otro género debe devolver error 404.
 Modelo?
 ---
 
-6) - Comandos necesarios para crear un controlador en Laravel, como correr un seeder en PHP, que
+6) - Comandos necesarios para crear un controlador en Laravel, como correr un seeder en Laravel, que
 diferencia existe en el objeto extraído con el método find o All.
 ---
 
